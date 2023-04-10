@@ -7,7 +7,7 @@
   <maintainer email="yandy.ding@gmail.com">yandy</maintainer>
   <license>BSD License 2.0</license>
 
-  <exec_depend>python-transforms3d-pip</exec_depend>
+  <exec_depend>python3-transforms3d</exec_depend>
   <exec_depend>geometry_msgs</exec_depend>
   <exec_depend>rclpy</exec_depend>
 
